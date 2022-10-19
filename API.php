@@ -9,7 +9,6 @@ use Cleantalk\Common\Http\Request;
  * Mostly contains wrappers for API methods. Check and send methods.
  * Compatible with any CMS.
  *
- * @version       4.0
  * @author        Cleantalk team (welcome@cleantalk.org)
  * @copyright (C) 2014 CleanTalk team (http://cleantalk.org)
  * @license       GNU/GPL: http://www.gnu.org/copyleft/gpl.html
