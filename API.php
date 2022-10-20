@@ -1,6 +1,6 @@
 <?php
 
-namespace Cleantalk\Common;
+namespace Cleantalk\Common\Api;
 
 use Cleantalk\Common\Http\Request;
 
