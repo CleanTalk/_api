@@ -796,7 +796,7 @@ class Api
         $url = defined('CLEANTALK_API_URL') ? CLEANTALK_API_URL : $_url;
 
         /** @var \Cleantalk\Common\Http\Request $request_class */
-        $request_class = Mloader::get('Request');
+        $request_class = Mloader::get('Http\Request');
         $http = new $request_class();
 
         return $http->setUrl($url)
